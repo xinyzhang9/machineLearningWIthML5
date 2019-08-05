@@ -1,0 +1,14 @@
+{
+  "name": "ml5play",
+  "version": "1.0.0",
+  "description": "play with ml5.js with some machine learning stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ml5"
+  ],
+  "author": "xinyzhang9@gmail.com",
+  "license": "ISC"
+}
